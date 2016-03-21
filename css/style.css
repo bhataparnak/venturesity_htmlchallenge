@@ -1,0 +1,78 @@
+/* ==== Google font ==== */
+@import url('http://fonts.googleapis.com/css?family=Lato:400,300,700,900');
+
+body {
+	  background: #5BAADE;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+}
+
+.alignright {
+    text-align: right;
+}
+
+.aligncenter {
+    text-align: center;
+}
+
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.428571429;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  border: 1px solid transparent;
+  border-radius: 0;
+}
+
+.btn-theme  {
+  color: #5BAADE;
+  background-color: #ffffff;
+  font-weight: 900;
+  font-size: 14px;
+  border-color: #ffffff;
+}
+
+/* wrapper */
+
+#wrapper {
+	text-align: center;
+	padding: 50px 0;
+}
+
+#wrapper h1 {
+	margin-top: 60px;
+	margin-bottom: 20px;
+	color: #fff;
+	font-size: 30px;
+	font-weight: 900;
+	letter-spacing: -1px;
+}
+
+h2.subtitle {
+	color: #fff;
+	font-size: 30px;
+}
+
+/* footer */
+p.copyright {
+	margin-top: 100px;
+  font-weight: 900;
+  font-size: 14px;
+	color: #fff;
+	text-align: center;
+}	
+
+.linkcolor{
+  color: #ffffff;
+  font-weight: 900;
+  font-size: 14px;
+}
+.margintop60{
+margin-top: 60px;
+}
